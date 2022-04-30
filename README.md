@@ -7,8 +7,8 @@ Netlify Link: https://glowing-kashata-fe5a26.netlify.app/
 
 ## Authors
 
-- [Brijesh Rai](https://github.com/itsme-brijeshrai)
 - [Rajan Chauhan](https://github.com/rajanchauhan165)
+- [Brijesh Rai](https://github.com/itsme-brijeshrai)
 - [Niraj Kumar](https://github.com/im-niraj) 
 - [Rahul Kailash Pawar](https://github.com/Rahul7874)
 - [Shreshth Raj](https://github.com/ShreshthRaj)
