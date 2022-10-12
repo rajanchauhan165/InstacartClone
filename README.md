@@ -31,7 +31,7 @@ HTML, CSS, JavaScript, Bootstrap
 
 
 ## Roles & Responsibilities:
-- The Landing Page is designed & functioned by Brijesh.
+- The Landing Page is designed & functioned by Brijesh & Rajan.
 - Sign up page, login page & order confirmation page is designed & functioned by Rajan.
 - Store & products section is designed & functioned by Niraj.
 - Cart section is designed & functioned by Rahul.
